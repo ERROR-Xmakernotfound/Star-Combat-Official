@@ -2,6 +2,10 @@
 
 ## Development log
 ### 11/26/2026
+**Fixed a delph bug with researcher 1**
+
+Self explanatory.
+
 **Added the BETA TEST token**
 
 To make it easier to tell if you're playing on a beta version of the game, at the top right corner of the screen i added a transparent token that has the word `BETA` on it.
