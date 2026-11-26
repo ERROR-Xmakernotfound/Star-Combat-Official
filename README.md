@@ -2,6 +2,10 @@
 
 ## Development log
 ### 11/26/2026
+**Added the BETA TEST token**
+
+To make it easier to tell if you're playing on a beta version of the game, at the top right corner of the screen i added a transparent token that has the word `BETA` on it.
+
 **Modified HUD**
 
 To get more clone headroom, I changed the hud so when entering the city the ATK_HP display text, Wave display text, boss_hp text and boss_name text dissapear.
