@@ -2,6 +2,10 @@
 
 ## Development log
 ### 11/26/2026
+**Modified HUD**
+
+To get more clone headroom, I changed the hud so when entering the city the ATK_HP display text, Wave display text, boss_hp text and boss_name text dissapear.
+
 **Modified attack system**
 
 Due to the attack system creating way too many clones, I disabled attacks when inside of the city, this is necessary because the city needs as many free clones as possible. (even though turbowarp grants infinite clones, I still want the city to be usable in vanila scratch.)
