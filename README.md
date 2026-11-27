@@ -2,7 +2,9 @@
 
 ## Development log
 ### 11/27/2026
+**Added Speed warning as a temporary fix to the clipping bug**
 
+Because i couldn't fix the bug, i added a warning when changing speed beyond 2, the warning will tell you that you may clip through walls due to the speed being too high.
 
 **Chagned BONK collision system & Found bugs**
 
