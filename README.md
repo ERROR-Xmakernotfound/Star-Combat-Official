@@ -6,7 +6,7 @@
 
 **Chagned BONK collision system & Found bugs**
 
-I changed some parts of the collision system because I found some bugs, i fixed most of them, however, there is one bug i wasn't able to fix. When a player creates a glitcher, as you know, they can change the speed, but i noticed that the higher the speed, the stronger the bug, it mainly becomes a problem when the speed is around 2.5 .
+I changed some parts of the collision system because I found some bugs, i fixed most of them, however, there is one bug i wasn't able to fix. When a player creates a glitcher, as you know, they can change the speed, but i noticed that the higher the speed, the stronger the bug, it mainly becomes a problem when the speed is around 2.
 
 **Added BONK collision system**
 
