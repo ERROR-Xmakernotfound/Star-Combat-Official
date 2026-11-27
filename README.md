@@ -2,6 +2,12 @@
 
 ## Development log
 ### 11/27/2026
+
+
+**Chagned BONK collision system & Found bugs**
+
+I changed some parts of the collision system because I found some bugs, i fixed most of them, however, there is one bug i wasn't able to fix. When a player creates a glitcher, as you know, they can change the speed, but i noticed that the higher the speed, the stronger the bug, it mainly becomes a problem when the speed is around 2.5 .
+
 **Added BONK collision system**
 
 With this new collision system, you are WAY less likely to clip through walls like you're about to fall into the backrooms, the reason I named it the "BONK" system is because when you dash inside of buildings you start to bounce around and bonk into even more walls.
