@@ -1,6 +1,15 @@
 # Star-Combat-Official
 
 ## Development log
+### 11/27/1026
+**Added BONK collision system**
+
+With this new collision system, you are WAY less likely to clip through walls like you're about to fall into the backrooms, the reason I named it the "BONK" system is because when you dash inside of buildings you start to bounce around and bonk into even more walls.
+
+**Moved movement code to the wall sprite**
+
+Self explanatory.
+
 ### 11/26/2026
 **Fixed a delph bug with researcher 1**
 
